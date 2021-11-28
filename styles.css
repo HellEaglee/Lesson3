@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* { 
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header_nav {
+    margin-left: 88px; 
+}
+
+.header_wrapper {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    padding: 15px 100px;
+}
+
+.nav_list {
+    display: inline-block;
+    margin-top: 4px;
+    vertical-align: top;
+}
+
+.nav_list > li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.logo {
+    display: inline-block;
+    margin: 0 370px 0 160px;
+}
+
+.links {
+    display: inline-block;
+}
+
+.links img {
+    margin-right: 20px;
+}
+
+.main-page {
+    height: 90vh;
+    background-color: #F0EFEB;
+}
+
+.main_image {
+    margin-left: 59px;
+}
+
+.guides {
+    height: 100vh;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    width: 534px;
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    width: 481px;
+    margin-top: 42px;
+}
+
+.button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    background-color: black;
+    height: 36px;
+    width: 130px;
+    border-radius: 100px;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 26px;
+}
+
+.main-content-wrapper {
+    display: inline-block;
+    margin-top: 90px;
+    margin-left: 188px;
+    vertical-align: top;
+}
